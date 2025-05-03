@@ -4,7 +4,7 @@ import React from 'react';
 function App() {
   return (
     <div style={styles.container}>
-      <h1 style={styles.heading}>Soureesh Varma</h1>
+      <h1 style={styles.heading}>Soureesh Varma Yarkaraju</h1>
     </div>
   );
 }
